@@ -1,1 +1,9 @@
 Anotações para teste de comandos github.
+
+Git init: cria um novo repositório no git.
+
+Git status: exibe condições do diretórios de trabalho e da área de staging.
+
+Git commit -m: Faz o commit apenas dos arquivos modificados e que encontram-se adicionados na área de stage (Changes to be committed) do Git. Ou seja, trata-se apenas dos arquivos que você adicionou usando um comando como este:
+
+git add nome_arquivo.txt
